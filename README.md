@@ -13,7 +13,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 1
-
+* https://www.pokemon.com/us/
+* I just googled what I like. 
+* This website looks pretty trendy. When I open the website, the content blocks show up nicely.
+* The navigation system seems cute. Rainbow colours are used for it. Also, I think the sections are well devided, so it's easy to find .   things.
+* 
+*
+*
 
 
 ---
