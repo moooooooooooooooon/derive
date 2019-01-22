@@ -52,14 +52,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 * The navigation system seems to be well devided, so it's easy to use. However, if I move my cursor to outside of the contents, it         disappears.
 * The header has many parts that I can search what I want to see, log in to my account and change the language and so on. The most parts   of the header are made for users, so people can interact and see easily.
 * I feel this looks pretty nice. It is useful and clean. It has simple icons and a lot of approaches to get into wherever I want to go.
-* One thing I would like change is the size of the logo. Most people know about the company when they see the logo, so I think it's a     good way to make the size of the logo bigger on the website.
-
+* One thing I would like change is the size of the logo. Most people know about the company when they see the logo, so I think it's a     good way to make the size of the logo bigger.
 
 ---
 ## Site 5
 * https://www.shopdisney.com/
 * I got the website from social media. I followed the link from the Disney instagram account.
-* This website looks current because a lot of pictures are going on the page, and they react when I hover. Also, I think the simple and   thin font works for trendy style.
+* This website looks current because a lot of pictures are going on the page, and they react when I hover. Also, I think the simple and   thin font and large pictures work for trendy style.
 * The navigation system seems to be well designed. It looks clean, so it's easy to see and use. I like the thin line appears at the       bottom of the categories when I hover any part in the navigation system.
 * On the top of the page, the header has the contents that I can find locations of stores and sign in and so on.
 * I feel this is really well designed and organized. The large pictures appeal to people to look at them, and I can feel the pictures     are coming to me when I hover. Also, the bottom of the page has many menus that I can get into. I think this website is pretty           interesting and useful.
