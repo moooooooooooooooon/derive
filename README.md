@@ -18,21 +18,22 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 * This website looks pretty trendy. When I open the website, the content blocks show up nicely.
 * The navigation system seems cute. Rainbow colours are used for it. Also, I think the sections are well devided, so it's easy to find     things.
 * There is a user dashboard to log in and to see my information on the left side. And I can search what I want to see easily in a         Pokédex section.
-* I think the website seems very interesting. Many bright colours are used for the game players, and those make the website cool. I also   like how the secions are devided.
+* I think the website seems very interesting. Many bright colours are used for the users, and those make the website cool. I also like     how the secions are devided.
 * I feel like a lot of information is going on in the blocks including the pictures and the sentences, so I think it looks a little bit   busy. I would like to change the blocks, but other things look really good and trendy. 
 
 
 ---
 ## Site 2
 * https://www.dunkindonuts.com/en
-* I googled the company name directly, and I got the website.
+* I googled the company name directly, and I got the website. I like Dunkin Donuts♡
 * I like this website because it seems very current, and I like I can turn on and off the high contrast mode.
 * When I hover the navigation part, it slowly changes the colour of the text and the box. If I click the boxes, it shows the details of   each part that I can move on. It is really easy to use and find things.
 * In a navigation part, I can search the locations of the stores, and there is a small box which has its own box shape to log in and see   my information.
 * I feel this is really interesting, and I like that it moves when I hover the contents, the use of colours which are representative of   this company, and the simple design and organization.
-* I would like to change the back-to-top box to stay where it is located now because if I go down more than the specific part, the back-   to-top box repeats to disappear and show up whenever I scroll up and down. But I don't think it's really bothers to look around the     website.
+* I would like to change the back-to-top box to stay where it is located now because if I go down more than the specific part, the back-   to-top box repeats to disappear and show up whenever I scroll up and down. But I don't think it really bothers to look around the       website.
 
 
+---
 ## Site 3
 * https://playskool.hasbro.com/en-ca
 * I saw my PLAYSKOOL crayons, so I googled the company.
